@@ -9,7 +9,7 @@ Disk 6: FS and Lib Sources
 Disk 7: MM and Tools Sources
 Disk 8: Commands Sources
 
-Running Minix 1.1 in Bochs
+Running Minix 1.1 in Bochs 2.7
 
 login: ast
 password: Wachtwoord
